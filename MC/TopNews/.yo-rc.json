@@ -1,0 +1,8 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "version": "1.2.0",
+    "libraryName": "top-news",
+    "libraryId": "955be741-d9fd-4a56-9fa3-e16e5328a027",
+    "environment": "spo"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "$schema": "https://dev.office.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "top-news-client-side-solution",
+    "id": "955be741-d9fd-4a56-9fa3-e16e5328a027",
+    "version": "1.0.0.0",
+    "skipFeatureDeployment": false
+  },
+  "paths": {
+    "zippedPackage": "solution/top-news.sppkg"
+  }
+}

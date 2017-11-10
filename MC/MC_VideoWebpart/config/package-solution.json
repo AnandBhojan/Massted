@@ -1,0 +1,12 @@
+{
+  "$schema": "https://dev.office.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "mc-video-webpart-client-side-solution",
+    "id": "d556c13f-3c35-44af-a250-b9df82fcf00c",
+    "version": "1.0.0.0",
+    "skipFeatureDeployment": false
+  },
+  "paths": {
+    "zippedPackage": "solution/mc-video-webpart.sppkg"
+  }
+}

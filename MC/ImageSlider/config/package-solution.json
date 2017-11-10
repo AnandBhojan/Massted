@@ -1,0 +1,12 @@
+{
+  "$schema": "https://dev.office.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "image-rotator-client-side-solution",
+    "id": "52ee655f-a36b-4aaa-b91c-758cd6a975aa",
+    "version": "1.0.0.0",
+    "skipFeatureDeployment": false
+  },
+  "paths": {
+    "zippedPackage": "solution/image-rotator.sppkg"
+  }
+}

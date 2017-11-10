@@ -1,0 +1,8 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "version": "1.2.0",
+    "libraryName": "image-rotator",
+    "libraryId": "52ee655f-a36b-4aaa-b91c-758cd6a975aa",
+    "environment": "spo"
+  }
+}

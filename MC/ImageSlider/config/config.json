@@ -1,0 +1,18 @@
+{
+  "$schema": "https://dev.office.com/json-schemas/spfx-build/config.2.0.schema.json",
+  "version": "2.0",
+  "bundles": {
+    "image-rotator-web-part": {
+      "components": [
+        {
+          "entrypoint": "./lib/webparts/imageRotator/ImageRotatorWebPart.js",
+          "manifest": "./src/webparts/imageRotator/ImageRotatorWebPart.manifest.json"
+        }
+      ]
+    }
+  },
+  "externals": {},
+  "localizedResources": {
+    "ImageRotatorWebPartStrings": "lib/webparts/imageRotator/loc/{locale}.js"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "$schema": "https://dev.office.com/json-schemas/spfx-build/config.2.0.schema.json",
+  "version": "2.0",
+  "bundles": {
+    "mc-video-web-part": {
+      "components": [
+        {
+          "entrypoint": "./lib/webparts/mcVideo/McVideoWebPart.js",
+          "manifest": "./src/webparts/mcVideo/McVideoWebPart.manifest.json"
+        }
+      ]
+    }
+  },
+  "externals": {},
+  "localizedResources": {
+    "McVideoWebPartStrings": "lib/webparts/mcVideo/loc/{locale}.js"
+  }
+}
